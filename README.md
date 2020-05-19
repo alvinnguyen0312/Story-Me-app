@@ -10,6 +10,5 @@ A simple application built in React Native for capturing daily stories
  - React native with different Expo APIs to build some features
  - Firebase for user authentication
  - Firebase Realtime DB for storing data
-##Demo
-
-Check here more video demo
+## Demo
+![](https://youtu.be/0TpqBwTKNuQ)
