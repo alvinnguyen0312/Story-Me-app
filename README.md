@@ -11,3 +11,5 @@ A simple application built in React Native for capturing daily stories
  - Firebase for user authentication
  - Firebase Realtime DB for storing data
 ##Demo
+
+Check here more video demo
